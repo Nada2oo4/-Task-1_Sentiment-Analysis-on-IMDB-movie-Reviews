@@ -29,9 +29,11 @@ Comparison of models to determine the best-performing classifier.
 
 
 📊 Results:
-The models were tested on unseen IMDB reviews.
-Among the tested models, Logistic Regression model accuracy: 0.91325
-Naive Bayes model (GaussianNB) accuraacy: 0.8329
+The models were tested on unseen IMDB reviews:
+
+Among the tested models, 1-Logistic Regression model accuracy: 0.91325
+
+2-Naive Bayes model (GaussianNB) accuraacy: 0.8329
 
 🚀 Technologies Used:
 Python 3
