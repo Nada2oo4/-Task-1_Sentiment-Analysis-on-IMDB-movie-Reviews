@@ -1,4 +1,4 @@
-# -Task-1_Sentiment-Analysis-on-IMDB_movie-Reviews
+# -Task-1_Sentiment-Analysis-on-IMDB-movie-Reviews
 📌 Project Overview:
 
 This project was developed as part of the Elevvo Pathways Internship – NLP Track.
